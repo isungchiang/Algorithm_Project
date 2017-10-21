@@ -1,0 +1,9 @@
+My project has two parts:
+1.COMP4121_Project.pdf is the theory report of my project.
+In order to save your time, if you dont want to read basic part that is in the textbook, please skip to Extend part at page12.
+2. Project.ipynb is the implement part of my project.
+It is written by python notebook. (very similar to Mathmatica)
+If you want to run it yourself: 
+	please install anaconda3 and open it. (see more http://jupyter.org/install.html)
+else: 
+	just read Project.html, it is the print version of python notebook.
